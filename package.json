@@ -1,0 +1,16 @@
+{
+  "name": "@justserdar/threeroot",
+  "description": "",
+  "version": "0.0.1",
+  "type": "module",
+  "main": "./nuxt.config.ts",
+  "scripts": {
+    "clean": "rimraf .nuxt .output node_modules"
+  },
+  "dependencies": {
+    "nuxt-auth-utils": "latest",
+    "nuxt": "3.8.0",
+    "socket.io": "^4.7.2",
+    "socket.io-client": "^4.7.2"
+  }
+}

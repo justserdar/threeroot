@@ -1,7 +1,9 @@
 {
   "name": "@justserdar/threeroot",
-  "description": "",
-  "version": "0.0.2",
+  "author": "justserdar",
+  "keywords": ["JustSerdar", "Nuxt 3", "Nitro", "Socket.IO", "Nuxt Auth Utils"],
+  "description": "Nuxt 3 layer with Socket.IO Server and Auth.",
+  "version": "0.0.3",
   "type": "module",
   "main": "./nuxt.config.ts",
   "scripts": {

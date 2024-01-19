@@ -11,7 +11,7 @@
   },
   "dependencies": {
     "nuxt-auth-utils": "latest",
-    "nuxt": "3.8.0",
+    "nuxt": "3.9.3",
     "socket.io": "^4.7.2"
   }
 }
